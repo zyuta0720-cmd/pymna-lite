@@ -5,7 +5,6 @@ Released under the MIT license
 https://opensource.org/licenses/mit-license.php
 """
 import numpy as np
-import numpy as np
 import tkinter as tk
 from tkinter import messagebox
 import re
